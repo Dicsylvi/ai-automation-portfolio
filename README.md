@@ -124,47 +124,6 @@ With any business type. Examples:
 Customer: "How much is a silk press?"  
 Bot: "Our silk press service is $95, including shampoo and hydration. Would you like to book?"  
 
----
-
-With any business type. Examples:
-- Sunrise Beauty Salon  
-- J&M Auto Repair  
-- CloudFix Tax Services  
-- FitWell Personal Training  
-
----
-
-## 💼 Example Use Cases
-
-### Beauty Salon  
-- Prices for hairstyles  
-- Booking appointments  
-- Product recommendations  
-
-### Real Estate Agent  
-- Property descriptions  
-- Open house schedules  
-- Collecting buyer info  
-
-### Auto Repair Shop  
-- Service pricing  
-- Diagnostics  
-- Drop-off instructions  
-
-### Fitness Trainer  
-- Class schedules  
-- Membership pricing  
-- Trial sessions  
-
----
-
-## 💬 Sample Conversation (See sample_conversations.md)
-
-Customer: "How much is a silk press?"  
-Bot: "Our silk press service is $95, including shampoo and hydration. Would you like to book?"  
-
----
-
 
 
 
